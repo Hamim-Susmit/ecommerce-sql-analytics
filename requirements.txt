@@ -1,0 +1,11 @@
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.5
+seaborn>=0.12
+sqlalchemy>=1.4
+psycopg2-binary>=2.9
+python-dateutil>=2.8
+
+# Optional (for notebooks / development)
+jupyterlab>=3.0
+ipykernel
