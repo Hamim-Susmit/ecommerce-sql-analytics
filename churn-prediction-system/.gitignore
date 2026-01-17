@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+.vscode/
+.idea/
+.DS_Store
+models/model.joblib
+models/metadata.json
+reports/figures/
+reports/drift_report.md
